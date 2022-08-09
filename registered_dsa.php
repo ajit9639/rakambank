@@ -7,8 +7,7 @@ include_once('includes/db.php');
 
 <body class="theme-red">
 
-    <!-- #END# Page Loader -->
-    <!-- Overlay For Sidebars -->
+    
     <div class="overlay"></div>
     <!-- #END# Overlay For Sidebars -->
     <!-- Search Bar -->
