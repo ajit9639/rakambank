@@ -11,8 +11,8 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.1.0
       with:
-        server: rakambank.com
-        username:   lms@rakambank.com
+        server: rakambank.com12
+        username:   lms@rakambank.com12
         password: ${{ secrets.ftp_password }}
         
         
